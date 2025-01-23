@@ -18,3 +18,13 @@ b = 2
 print("add(a, b): ",add(a, b))
 
 sale_car(20)
+
+# 全局和局部变量
+# 定义一个全局变量
+X = 100
+
+def fun():
+    a = 10
+    print("a:", a, ", X:", X)
+    
+fun()
