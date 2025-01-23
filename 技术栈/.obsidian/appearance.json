@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "Cascadia Mono",
+  "baseFontSize": 17,
+  "cssTheme": "Blue Topaz",
+  "theme": "system",
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}

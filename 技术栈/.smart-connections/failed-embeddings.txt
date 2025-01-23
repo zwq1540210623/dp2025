@@ -1,0 +1,19 @@
+
+01.编程语言/A02.python/01.enpei/环境准备.md
+01.编程语言/A02.python/01.enpei/环境准备.md#conda install mediapipe#调试demo
+01.编程语言/A02.python/01.enpei/环境准备.md#conda install mediapipe#调试demo#wsl2中安装usb摄像头驱动
+01.编程语言/A02.python/01.enpei/环境准备.md#conda install mediapipe#调试demo#列表和元组的区别
+02.工具/A03.opencv/未命名.md
+03.AI知识库/A02.算子框架/cnn/课程资料.md
+03.AI知识库/A03.实战/rknn/rk3568/资料.md
+03.AI知识库/A03.实战/人脸识别/人脸识别跑通.md
+03.AI知识库/A03.实战/炮哥/yolov5/环境安装.md
+03.AI知识库/A03.实战/炮哥/yolov5/环境安装.md#onnx模型导出
+03.AI知识库/A03.实战/炮哥/yolov5/环境安装.md#模型检测
+03.AI知识库/A03.实战/炮哥/神经网络基础/lenet5网络结构.md
+03.AI知识库/A03.实战/精致烧鸡/yolov11/环境搭建.md
+03.AI知识库/A03.实战/精致烧鸡/yolov11/章节1.md
+03.AI知识库/A03.实战/霹雳啪啦wz/01.图像分类/lenet网络.md
+03.AI知识库/A03.实战/霹雳啪啦wz/02.目标检测/fast rcnn实战.md
+03.AI知识库/A03.实战/霹雳啪啦wz/02.目标检测/环境搭建和初步使用.md
+09.计划安排/2024.12/学习内容.md

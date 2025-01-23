@@ -1,0 +1,409 @@
+{
+  "main": {
+    "id": "51b6a29b7e1bcc05",
+    "type": "split",
+    "children": [
+      {
+        "id": "d056f931db4d3d45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20fa166354f225a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.AI知识库/A02.算子框架/cnn/课程资料.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "课程资料"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8927782ad087df21",
+    "type": "split",
+    "children": [
+      {
+        "id": "843bc2e653699728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3fc6c75920cffa8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cbcb96a90a3585d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9b91addb2c760604",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "901937faa5459e16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "right": {
+    "id": "b3ec70e0dec63170",
+    "type": "split",
+    "children": [
+      {
+        "id": "58ec4e58a41c4c6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc0222c68c03551",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-任务/系统构建.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "系统构建 的反向链接列表"
+            }
+          },
+          {
+            "id": "69fac4198cea4dc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-任务/系统构建.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "系统构建 的出链列表"
+            }
+          },
+          {
+            "id": "e737d8e936742b8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a0af1e67d185c37e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "09.计划安排/2024.12/学习内容.md"
+              },
+              "icon": "lucide-list",
+              "title": "学习内容 的大纲"
+            }
+          },
+          {
+            "id": "aeb474ab535e1ecd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d687fcf0b71ff5b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "9f08c7f5239bccdf",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections Files"
+            }
+          },
+          {
+            "id": "e08a9733bac9f1ca",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "f48e87aa29d21b71",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "eff92b6f095ebf01",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "c81bb725a5a32757",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "972b2dc01f217b62",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "a9796835d41ea14a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "a34045688f7404bb",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "05e3d225276ed610",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "19d51e78b85029e5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "b6e220c0e3e8aed3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "743205a6748eeabd",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "2924b0821d356c0f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "8800552f9b15b731",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "6204346b1db1612a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections Files"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "pkmer:Open Pkmer Market": false
+    }
+  },
+  "active": "e3fc6c75920cffa8",
+  "lastOpenFiles": [
+    "09.计划安排/2024.12/学习内容.md",
+    "09.计划安排/2024.12/Pasted image 20241201223218.png",
+    "03.AI知识库/A03.实战/霹雳啪啦wz/02.目标检测/fast rcnn实战.md",
+    "03.AI知识库/A03.实战/霹雳啪啦wz/02.目标检测/figture/Pasted image 20250119171544.png",
+    "03.AI知识库/A03.实战/霹雳啪啦wz/02.目标检测/figture",
+    "03.AI知识库/A03.实战/霹雳啪啦wz/01.图像分类/lenet网络.md",
+    "03.AI知识库/A03.实战/霹雳啪啦wz/02.目标检测/环境搭建和初步使用.md",
+    "03.AI知识库/A03.实战/霹雳啪啦wz/01.图像分类",
+    "03.AI知识库/A03.实战/人脸识别/人脸识别跑通.md",
+    "03.AI知识库/A03.实战/霹雳啪啦wz/02.目标检测",
+    "03.AI知识库/A03.实战/霹雳啪啦wz",
+    "03.AI知识库/A02.算子框架/cnn/课程资料.md",
+    "03.AI知识库/A03.实战/人脸识别",
+    "03.AI知识库/A03.实战/人脸检测",
+    "03.AI知识库/A03.实战/炮哥/神经网络基础/lenet5网络结构.md",
+    "03.AI知识库/A03.实战/炮哥/神经网络基础/figture/Pasted image 20250105155548.png",
+    "03.AI知识库/A03.实战/炮哥/神经网络基础/figture",
+    "03.AI知识库/A03.实战/精致烧鸡/yolov11/章节1.md",
+    "03.AI知识库/A03.实战/炮哥/神经网络基础",
+    "03.AI知识库/A03.实战/精致烧鸡/图像分类",
+    "03.AI知识库/A03.实战/精致烧鸡/yolov11/环境搭建.md",
+    "03.AI知识库/A03.实战/炮哥/yolov5/环境安装.md",
+    "03.AI知识库/A03.实战/精致烧鸡/yolov11",
+    "03.AI知识库/A03.实战/炮哥/yolov5/figture/Pasted image 20241212220256.png",
+    "03.AI知识库/A03.实战/rknn/rk3568/资料.md",
+    "03.AI知识库/A03.实战/炮哥/yolov5/figture/Pasted image 20241208215417.png",
+    "01.编程语言/A02.python/01.enpei/环境准备.md",
+    "02.工具/A03.opencv/未命名.md",
+    "01.编程语言/A02.python/01.enpei/figture/Pasted image 20241202232529.png",
+    "01.编程语言/A02.python/01.enpei/figture/Pasted image 20241202232457.png",
+    "01.编程语言/A02.python/01.enpei/figture/Pasted image 20241202224412.png",
+    "01.编程语言/A02.python/01.enpei/figture/Pasted image 20241202000234.png",
+    "01.编程语言/A02.python/01.enpei/figture/Pasted image 20241201233315.png",
+    "1-任务/图像分类算法/lenet.md",
+    "1-任务/图像分类算法/专利.md",
+    "1-任务/炮哥带你学——yolov.md",
+    "未命名.canvas",
+    "笔记2024-11-17.md",
+    "1-任务/资料下载.md",
+    "2-输入/leetcode/仓库.md",
+    "1-任务/炮哥带你学——卷积基础.md",
+    "0-收集箱/工具/常用命令.md",
+    "1-任务/计划.md",
+    "1-任务/2024-11月计划&进度跟踪.md",
+    "0-收集箱/灵感/构建系统.md",
+    "0-收集箱/工具/tag.md",
+    "02.嵌入式知识库/01 嵌入式AI/A02 ARM/05.uboot源码分析1/uboot源码分析.canvas",
+    "03.基础知识库/01.工具篇/机器学习笔记.canvas",
+    "工作流.canvas",
+    "01 嵌入式AI/未命名.canvas"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "attachmentFolderPath": "./figture",
+  "vimMode": false,
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "newLinkFormat": "relative",
+  "autoConvertHtml": false,
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
+}
