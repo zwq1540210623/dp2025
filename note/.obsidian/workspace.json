@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.AI知识库/A02.算子框架/cnn/课程资料.md",
+                "file": "03.AI知识库/A03.实战/rknn/orangepi/环境搭建.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "课程资料"
+              "title": "环境搭建"
             }
           }
         ]
@@ -325,6 +325,16 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "4f19e74451c4ae6a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
               "icon": "smart-connections",
               "title": "Smart Connections Files"
             }
@@ -353,8 +363,14 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "e3fc6c75920cffa8",
+  "active": "20fa166354f225a9",
   "lastOpenFiles": [
+    "03.AI知识库/A03.实战/精致烧鸡/yolov11/章节1.md",
+    "03.AI知识库/A03.实战/rknn/orangepi/环境搭建.md",
+    "03.AI知识库/A03.实战/rknn/orangepi",
+    "03.AI知识库/A03.实战/bubbliiiing",
+    "03.AI知识库/A03.实战/精致烧鸡/yolov11/环境搭建.md",
+    "03.AI知识库/A02.算子框架/cnn/课程资料.md",
     "09.计划安排/2024.12/学习内容.md",
     "09.计划安排/2024.12/Pasted image 20241201223218.png",
     "03.AI知识库/A03.实战/霹雳啪啦wz/02.目标检测/fast rcnn实战.md",
@@ -366,18 +382,13 @@
     "03.AI知识库/A03.实战/人脸识别/人脸识别跑通.md",
     "03.AI知识库/A03.实战/霹雳啪啦wz/02.目标检测",
     "03.AI知识库/A03.实战/霹雳啪啦wz",
-    "03.AI知识库/A02.算子框架/cnn/课程资料.md",
     "03.AI知识库/A03.实战/人脸识别",
     "03.AI知识库/A03.实战/人脸检测",
     "03.AI知识库/A03.实战/炮哥/神经网络基础/lenet5网络结构.md",
     "03.AI知识库/A03.实战/炮哥/神经网络基础/figture/Pasted image 20250105155548.png",
     "03.AI知识库/A03.实战/炮哥/神经网络基础/figture",
-    "03.AI知识库/A03.实战/精致烧鸡/yolov11/章节1.md",
     "03.AI知识库/A03.实战/炮哥/神经网络基础",
-    "03.AI知识库/A03.实战/精致烧鸡/图像分类",
-    "03.AI知识库/A03.实战/精致烧鸡/yolov11/环境搭建.md",
     "03.AI知识库/A03.实战/炮哥/yolov5/环境安装.md",
-    "03.AI知识库/A03.实战/精致烧鸡/yolov11",
     "03.AI知识库/A03.实战/炮哥/yolov5/figture/Pasted image 20241212220256.png",
     "03.AI知识库/A03.实战/rknn/rk3568/资料.md",
     "03.AI知识库/A03.实战/炮哥/yolov5/figture/Pasted image 20241208215417.png",
