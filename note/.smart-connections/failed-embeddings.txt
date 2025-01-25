@@ -5,6 +5,8 @@
 01.编程语言/A02.python/01.enpei/环境准备.md#conda install mediapipe#调试demo#列表和元组的区别
 02.工具/A03.opencv/未命名.md
 03.AI知识库/A02.算子框架/cnn/课程资料.md
+03.AI知识库/A03.实战/awnpu/viplite/awnn环境.md
+03.AI知识库/A03.实战/rknn/orangepi/环境搭建.md
 03.AI知识库/A03.实战/rknn/rk3568/资料.md
 03.AI知识库/A03.实战/人脸识别/人脸识别跑通.md
 03.AI知识库/A03.实战/炮哥/yolov5/环境安装.md

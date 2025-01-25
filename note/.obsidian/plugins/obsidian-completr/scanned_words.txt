@@ -294,6 +294,7 @@ tN
 tL
 tMi
 tC
+tmux
 ZtK
 ZX
 ZR
